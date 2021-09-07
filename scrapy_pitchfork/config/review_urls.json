@@ -1,0 +1,4 @@
+{
+    "input_filename": "pitchfork/reviews.jl",
+    "output_filename": "pitchfork/review_urls.txt"
+}
