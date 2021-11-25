@@ -1,7 +1,0 @@
-language: python
-
-script:
-  - coverage run -m unittest
-
-after_success:
-  - coverage report -m

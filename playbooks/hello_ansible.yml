@@ -1,0 +1,7 @@
+---
+- hosts: all
+  tasks:
+    - name: Hi
+      shell:
+        cmd: "echo 'Howdy pardner!' > howdy.txt"
+
