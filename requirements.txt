@@ -1,1 +1,5 @@
 ansible
+bs4
+-e git+https://github.com/christiemj09/config.git#egg=config
+scrapy
+scrapy_selenium

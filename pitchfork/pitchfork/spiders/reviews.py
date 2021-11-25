@@ -2,11 +2,9 @@
 Get details from farm listings.
 """
 
-import datetime as dt
-import errno
+
 import os
 import scrapy
-import time
 
 # def mkdir_p(path):
 #     # https://stackoverflow.com/questions/600268/mkdir-p-functionality-in-python

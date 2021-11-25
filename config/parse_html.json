@@ -1,0 +1,13 @@
+{
+  "html_glob": "output/{run_id}_{date}/html/*.html",
+  "attributes": {
+    "artist": "artist-links artist-list single-album-tombstone__artist-links",
+    "album": "single-album-tombstone__review-title",
+    "score": "score",
+    "author": "authors-detail__display-name",
+    "genre": "genre-list__link",
+    "pub_date": "pub-date",
+    "review": "contents dropcap"
+},
+  "output_filename": "output/{run_id}_{date}/pitchfork_parsed_{run_id}_{date}.csv"
+}

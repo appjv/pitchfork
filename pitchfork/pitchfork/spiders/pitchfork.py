@@ -1,7 +1,5 @@
 import scrapy
 from scrapy_selenium import SeleniumRequest
-from scrapy.spiders import Rule
-from scrapy.linkextractors import LinkExtractor
 
 
 class PitchforkSpider(scrapy.Spider):
