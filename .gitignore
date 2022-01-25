@@ -132,3 +132,5 @@ dmypy.json
 ../hosts
 
 output
+.DS_Store
+.idea/
